@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Julián Nova and I'm a passionate programmer, from Colombia</h2>
 
 ###
 
@@ -55,7 +55,9 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ji42gkzk7chd5bm4m4lghhq3qm&count={count})">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=31ji42gkzk7chd5bm4m4lghhq3qm&count=%7Bcount%7D)&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
