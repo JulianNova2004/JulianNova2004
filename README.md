@@ -2,6 +2,24 @@
 
 ###
 
+<p align="left">Welcome to my profile. My name is Julián Nova and I'm a passionate programmer, from Bogotá, Colombia.<br><br>I'm passionate about everything related to programming, operating systems, and physics. I like to challenge myself daily and strive to do my best, both in programming and in life.<br><br>I have experience working with Java, Python, HTML, and JavaScript. I enjoy developing team projects, in which I've played both front-end and back-end roles, where I've applied logical, effective, and creative solutions.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+  ✨ Creating bugs since 2023<br>
+  📚 I'm currently learning software architecture and development of aplications for movile devices at UPC(Universidad Piloto de Colombia)<br>
+  🎯 Goals: Learn Salesforce and TensorFlow<br>
+  🚀 Hobbies: ⚽Play and view football(🔵Favourite teams: Chelsea and Millonarios), 🎧listen music, 🏋️‍♂️go to the gym and ❤️spend time with my family<br>
+  🎲 Fun fact: 🌌Big fan of  Star Wars and 🏰The Lord of the Rings and the middle earth history</p>
+
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JulianNova2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <img src="https://streak-stats.demolab.com?user=JulianNova2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
