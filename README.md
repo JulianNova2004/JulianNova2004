@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianNova2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianNova2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="200" src="https://i.pinimg.com/736x/52/e3/26/52e326d86f00105f64fcb8bfce0e7744.jpg"  />
 
 ###
@@ -54,9 +61,15 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JulianNova2004/JulianNova2004/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ji42gkzk7chd5bm4m4lghhq3qm&count={count})">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=31ji42gkzk7chd5bm4m4lghhq3qm&count=%7Bcount%7D)&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31ji42gkzk7chd5bm4m4lghhq3qm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ji42gkzk7chd5bm4m4lghhq3qm&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
