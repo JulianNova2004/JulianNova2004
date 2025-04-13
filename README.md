@@ -78,10 +78,10 @@ https://i.pinimg.com/736x/52/e3/26/52e326d86f00105f64fcb8bfce0e7744.jpg
 ### 🌐 Socials:
 
 <a href="https://instagram.com/juliannova20" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="150"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="40"/>
 </a>
 <a href="mailto:jnovatorroledo@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="100"/>
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="40"/>
 </a>
 
 <!--
