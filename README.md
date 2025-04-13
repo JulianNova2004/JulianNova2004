@@ -81,8 +81,9 @@
 ###
 
 <br clear="both">
-
+<!--
 <img src="https://raw.githubusercontent.com/JulianNova2004/JulianNova2004/output/snake.svg" alt="Snake animation" />
+->>
 
 ###
 
