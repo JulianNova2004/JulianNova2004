@@ -6,12 +6,12 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me.</h2>
 
 ###
 
 <p align="left">
-  ✨ Creating bugs since 2023.<br>
+  ✨ Once, I didn't code for 9 months, then I was born.<br>
   📚 I'm currently learning software architecture and development of aplications for movile devices at UPC(Universidad Piloto de Colombia).<br>
   🎯 Goals: Learn Salesforce and TensorFlow.<br>
   🚀 Hobbies: ⚽Play and view football(🔵Favourite teams: Chelsea and Millonarios), 🎧listen music, 🏋️‍♂️go to the gym and ❤️spend time with my family.<br>
