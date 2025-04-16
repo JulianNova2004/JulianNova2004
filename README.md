@@ -15,7 +15,7 @@
   📚 I'm currently learning software architecture and development of aplications for movile devices at UPC(Universidad Piloto de Colombia).<br>
   🎯 Goals: Learn Salesforce and TensorFlow.<br>
   🚀 Hobbies: ⚽Play and view football(🔵Favourite teams: Chelsea and Millonarios), 🎧listen music, 🏋️‍♂️go to the gym and ❤️spend time with my family.<br>
-  🎲 Fun fact: 🌌Big fan of  Star Wars and 🏰The Lord of the Rings and the Middle Earth history.</p>
+  🎲 Fun fact: 🌌Big fan of  Star Wars and 🏰The Lord Of The Rings and the Middle Earth history.</p>
 
 
 ###
