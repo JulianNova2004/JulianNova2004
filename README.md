@@ -12,7 +12,7 @@
 
 <p align="left">
   ✨ Once, I didn't code for 9 months, then I was born.<br>
-  📚 I'm currently learning Software Architecture and Development of Aplications for Movile Devices at UPC(Universidad Piloto de Colombia).<br>
+  📚 I'm currently learning Software Engineering  and IT Infrastructure at UPC(Universidad Piloto de Colombia).<br>
   🎯 Goals: Learn Salesforce and TensorFlow.<br>
   🚀 Hobbies: ⚽Play and view football(🔵Favourite teams: Chelsea and Millonarios), 🎧listen music, 🏋️‍♂️go to the gym and ❤️spend time with my family.<br>
   🎲 Fun fact: 🌌Big fan of  Star Wars and 🏰The Lord Of The Rings and all the Middle Earth history.</p>
